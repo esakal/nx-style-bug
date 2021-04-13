@@ -1,6 +1,6 @@
 
 
-# Test
+# NRWL Nx bug reproducible project
 
 This project was generated using [Nx](https://nx.dev).
 
